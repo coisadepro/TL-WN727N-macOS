@@ -2,7 +2,7 @@
 This installer will make your TP-Link TL-WN727N USB Wifi work with macOS Sierra (10.12) and up.
 
 ## How to install
-1. Download the DMG installer file [here]()
+1. [Download](https://github.com/coisadepro/TL-WN727N-macOS/blob/master/TL-WN727N.dmg?raw=true) the DMG installer file
 2. Install the software
 3. Plug the device into a USB port
 4. Restart your computer
