@@ -8,4 +8,4 @@ This installer will make your TP-Link TL-WN727N USB Wifi work under macOS Sierra
 4. Restart your computer
 
 ## License
-This software is provided for free by the [EDIMAX](http://www.edimax.com/edimax/global/) company. In fact, it's not provided aiming to work with TP-Link's hardware, but as the internal chip is the same, it works. I claim no copyright over EDIMAX software. The only reason I uploaded it here is to make it easier to find.
+This software is provided for free by the [EDIMAX](http://www.edimax.com/edimax/global/) company. In fact, it's not provided aiming to work with TP-Link's hardware, but as the internal chip is the same, it works. I claim no copyright over EDIMAX software. The only reason I uploaded it here is to make it easier for others to find it.
